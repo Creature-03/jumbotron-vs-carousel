@@ -1,2 +1,2 @@
-# jumbotron-vs-carousel
-jumbotron and carousel examples
+# jumbotron-vs-carousel for Bootstrap
+Bootstrap jumbotron and carousel examples
