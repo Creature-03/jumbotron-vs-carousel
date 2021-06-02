@@ -1,5 +1,5 @@
 /* custom h2 in carousel slides.
-used in: index.html - lines 69, 81, 92 */
+used in: index.html - lines 71, 84, 94 */
 .car-ex{
     margin: 0 0 10vw 0;
     padding: 3%;
@@ -10,7 +10,7 @@ used in: index.html - lines 69, 81, 92 */
 }
 
 /* container for carousel. 
-used in: index.html - line 49 */
+used in: index.html - line 50 */
 #car-container{
     background: rgba(77, 72, 72, 0.4);
 }
